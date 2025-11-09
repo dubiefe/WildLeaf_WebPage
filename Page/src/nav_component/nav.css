@@ -15,21 +15,3 @@
     height: 80%;
 
 }
-
-#button_application {
-    background-color: #DC602E;
-    cursor: pointer;
-    border: none;
-    padding: 1.5vh;
-    padding-left: 2vh;
-    padding-right: 2vh;
-    border-radius: 3vh;
-    font-size: 1.5vh;
-    color: black;
-    font-weight: 800;
-}
-
-#button_application:hover {
-    font-weight: 900;
-    margin-bottom: 0.2vh;
-}

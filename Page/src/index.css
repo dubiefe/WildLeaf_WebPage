@@ -17,6 +17,28 @@ body {
   margin: 0;
 }
 
+button, a {
+  background-color: #DC602E;
+  cursor: pointer;
+  border: none;
+  padding: 1.5vh;
+  padding-left: 2vh;
+  padding-right: 2vh;
+  border-radius: 3vh;
+  font-size: 1.5vh;
+  color: black;
+  font-weight: 800;
+}
+
+button:hover, a:hover {
+  font-weight: 900;
+  margin-bottom: 0.2vh;
+}
+
+button:disabled {
+  filter: brightness(0.5);
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
