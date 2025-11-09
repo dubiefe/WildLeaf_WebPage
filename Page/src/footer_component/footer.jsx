@@ -1,5 +1,7 @@
-import utadlogo from './assets/utadLogo.png'
-import decorations1 from './assets/decorations1.png'
+import utadlogo from '../assets/utadLogo.png'
+import decorations1 from '../assets/decorations1.png'
+import "./footer.css"
+
 function Footer(){
     return (
         <div className="Footer">
@@ -12,7 +14,7 @@ function Footer(){
                 <li className="footerItem">Collaborators</li>
             </ul>
             <img src={utadlogo} className="footerlogo"></img>
-            <img src={decorations1} className={footerdecorations}></img>
+            <img src={decorations1} className="footerdecorations"></img>
         </div>
     );
 }
