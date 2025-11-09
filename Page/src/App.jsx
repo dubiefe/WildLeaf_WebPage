@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import wildleaf_logo from "./assets/wildleaf_logo.png"
 import './App.css'
+import Footer from "./assets/Footer.jsx";
 
 function App() {
   const [count, setCount] = useState(0)
@@ -8,6 +9,7 @@ function App() {
   return (
     <>
       <img src={wildleaf_logo} alt="wildleaf_logo" />
+        <Footer></Footer>
     </>
   )
 }
