@@ -37,5 +37,10 @@
     height: 50px;
     border-radius: 50%;
 }
+.footerdecorations{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+}
 
 
