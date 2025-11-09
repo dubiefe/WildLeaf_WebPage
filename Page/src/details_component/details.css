@@ -1,0 +1,35 @@
+#details_container {
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 4%;
+}
+
+#details_container h2 {
+    font-size: 5vh;
+}
+
+#details_container h3 {
+    font-size: 4vh;
+    margin: 0;
+}
+
+#details_container p, #details_container ul, #details_container li {
+    margin: 0;
+    font-size: 2vh;
+}
+
+#details_container div div {
+    display: flex;
+    gap: 2%;
+}
+
+#details_container div div div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #22B14C;
+    width: 12%;
+    padding: 2%;
+    border-radius: 20px;
+}
+
