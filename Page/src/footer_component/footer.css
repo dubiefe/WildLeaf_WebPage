@@ -1,6 +1,6 @@
 .Footer{
-    background: #2A7B9B;
-    background: linear-gradient(180deg, rgba(42, 123, 155, 1) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    background: #688E26;
+    background: linear-gradient(180deg, rgb(0, 50, 32) 0%, rgb(239, 233, 174) 50%, rgb(242, 84, 45) 100%);
     font-family: "Bell MT", Arial, sans-serif;
     padding-right: 20px;
     padding-bottom: 20px;
