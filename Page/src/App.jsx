@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import wildleaf_logo from "./assets/wildleaf_logo.png"
 import './App.css'
-import Footer from "./Footer.jsx";
+import Footer from "./footer_component/footer.jsx";
 
 function App() {
   const [count, setCount] = useState(0)
