@@ -1,0 +1,33 @@
+#references_container {
+    background-color: #013220;
+    filter: brightness(1.5);
+    width: 100%;
+    box-sizing: border-box;
+    padding: 2%;
+}
+
+#references_container h2 {
+    margin: 0;
+    margin-bottom: 0.5vh;
+    font-size: 2.5vh;
+}
+
+#references_container p, #references_container ul {
+    margin: 0;
+    padding: 0;
+}
+
+#references_container p {
+    margin-top: 2vh;
+    margin-bottom: 0.5vh;
+    font-size: 1.75vh;
+}
+
+#references_container li {
+    list-style-type: none;
+    padding-left: 2vh;
+}
+
+#references_container a {
+    font-size: 1.5vh;
+}
