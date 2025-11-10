@@ -13,6 +13,7 @@ function Footer(){
                 <li className="footerItem">About us</li>
                 <li className="footerItem">Collaborators</li>
             </ul>
+            <p>Made by: Samuel Porta, Guillermo Sabate, Emilie Dubief and Diego Herrera </p>
             <img src={utadlogo} className="footerlogo"></img>
             <img src={decorations1} className="footerdecorations"></img>
         </div>
