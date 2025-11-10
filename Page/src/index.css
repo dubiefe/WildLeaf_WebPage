@@ -37,6 +37,8 @@ button:hover, .button:hover {
 
 button:disabled {
   filter: brightness(0.5);
+  cursor: auto;
+  margin-bottom: 0;
 }
 
 @media (prefers-color-scheme: light) {

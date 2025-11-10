@@ -35,7 +35,7 @@
     width: 760px;
     display: flex;
     justify-content: space-between;
-    height: 6vh;
+    height: 50px;
 }
 
 #pages_container {
@@ -49,7 +49,7 @@
 #options_container a {
     display: flex;
     width: 60px;
-    height: 55px;
+    height: 100%;
     padding: 0;
     align-items: center;
     justify-content: center;
