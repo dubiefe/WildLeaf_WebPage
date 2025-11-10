@@ -17,7 +17,7 @@ body {
   margin: 0;
 }
 
-button, a {
+button, .button {
   background-color: #DC602E;
   cursor: pointer;
   border: none;
@@ -30,7 +30,7 @@ button, a {
   font-weight: 800;
 }
 
-button:hover, a:hover {
+button:hover, .button:hover {
   font-weight: 900;
   margin-bottom: 0.2vh;
 }

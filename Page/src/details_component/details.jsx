@@ -42,7 +42,7 @@ function Details() {
                     <p>Reliable data</p>
                 </div>
                 <div>
-                    <p>Simplify Information</p>
+                    <p>Simplified Information</p>
                 </div>
                 <div>
                     <p>Accessible to everyone</p>

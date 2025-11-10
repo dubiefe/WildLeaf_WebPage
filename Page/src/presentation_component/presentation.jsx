@@ -74,14 +74,14 @@ function Presentation() {
                     </div>
                 </div>
                 <div id="options_container">
-                    <div style={{width:"50px"}}></div>
+                    <div style={{width:"60px"}}></div>
                     <div id="pages_container">
                         <button onClick={prevPage} disabled={currentPage === 1}>{"<"}</button>
                         <p>{currentPage} / {nbPages}</p>
                         <button onClick={nextPage} disabled={currentPage === nbPages}>{">"}</button>
                     </div>
-                    <div style={{width:"50px"}}>
-                        <a  href={presentation_pdf} download="WildLeaf_Presentation" title="download the presentation"><img src={download_icon} alt="download" /></a>
+                    <div style={{width:"60px"}}>
+                        <a class="button" href={presentation_pdf} download="WildLeaf_Presentation" title="download the presentation"><img src={download_icon} alt="download" /></a>
                     </div>
                 </div>
             </div>
