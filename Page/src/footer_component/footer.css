@@ -1,17 +1,53 @@
-.Footer{
-    background: #efe9ae;
-    font-family: "Bell MT", Arial, sans-serif;
+.Footer {
+    display: flex;
+    background-color: #013220;
+    filter: brightness(1.5);
+    width: 100%;
+    box-sizing: border-box;
+    padding: 2%;
+    color: white;
+}
+
+.credits_container{
+    width: 50%;
     padding-right: 20px;
     padding-bottom: 20px;
-    color: #213547;
 }
 .footerlogo {
-    width: 50px;
     height: 50px;
-    border-radius: 50%;
 }
 .footerdecorations{
     display: inline-block;
     width: 80px;
     height: 80px;
+}
+
+#references_container {
+    width: 50%;
+}
+
+#references_container h2 {
+    margin: 0;
+    margin-bottom: 0.5vh;
+    font-size: 2.5vh;
+}
+
+#references_container p, #references_container ul {
+    margin: 0;
+    padding: 0;
+}
+
+#references_container p {
+    margin-top: 2vh;
+    margin-bottom: 0.5vh;
+    font-size: 1.75vh;
+}
+
+#references_container li {
+    list-style-type: none;
+    padding-left: 2vh;
+}
+
+#references_container a {
+    font-size: 1.5vh;
 }
