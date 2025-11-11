@@ -6,7 +6,7 @@
     margin-bottom: 8vh;
 }
 
-#video_container video {
+#video_container iframe {
     width: 760px;
     height: 427px;
     border-radius: 20px;
