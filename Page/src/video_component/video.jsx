@@ -7,7 +7,7 @@ function Video() {
     <>
       <div id="video_container">
         <video width="320" height="240" controls>
-            <source src={wildleaf_demo} type="video/mp4" />
+            <source src="https://youtu.be/aas3PvUhaa8" type="video/mp4" />
         </video>
       </div>
     </>
