@@ -30,6 +30,7 @@ function Footer(){
                 </ul>
                 <p>Data retrieval</p>
                 <ul>
+                    <li><a href='https://iucn.org/' target='_blank'>IUCN</a></li>
                     <li><a href="https://www.gbif.org/" target='_blank'>GBIF API</a></li>
                     <li><a href="https://www.inaturalist.org/" target='_blank'>iNaturalist API</a></li>
                     <li><a href="https://www.wikidata.org/wiki/Wikidata:Main_Page" target='_blank'>Wikidata API</a></li>
