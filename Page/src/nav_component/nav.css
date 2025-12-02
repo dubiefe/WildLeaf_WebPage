@@ -13,5 +13,8 @@
 
 #nav_container img {
     height: 80%;
+}
 
+#nav_container a {
+    text-decoration: none;
 }

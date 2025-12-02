@@ -7,7 +7,7 @@ function Nav() {
     <>
       <div id="nav_container">
         <img src={wildleaf_logo} alt="wildleaf_logo" />
-        <button id="button_application">Go to the app &#x2192;</button>
+        <button id="button_application"><a href="http://52.203.48.52" target="_blank">Go to the app &#x2192;</a></button>
       </div>
     </>
   )
